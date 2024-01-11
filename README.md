@@ -22,7 +22,7 @@ Ele permite consultas em uma lista de jogos, trazendo informações sobre esse j
 ![interface](img/GamesList-model.png)
 ## Screenshots
 
-![endpoint](img/Endpoint_exemple .png)
+![endpoint](img/Endpoint_exemple.png)
 ![endpoint](img/Endpoint_exemple2.png)
 ## Deploy
 
